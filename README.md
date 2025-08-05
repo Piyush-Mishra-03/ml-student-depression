@@ -70,7 +70,6 @@ The Logistic Regression model performed slightly better than Random Forest, achi
 ## 🌟 Connect with Me
 
 - 📂 [GitHub Project Repo](https://github.com/yourusername/student-depression-ml)
-- 📄 [My Resume](https://your-link/resume.pdf)
 - 💼 [LinkedIn](https://linkedin.com/in/yourusername)
 
 Let’s build for impact. 💚
